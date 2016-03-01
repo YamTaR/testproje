@@ -1,0 +1,2 @@
+# testproje
+github deneme
